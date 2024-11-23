@@ -49,8 +49,8 @@ public class ClienteUI {
         System.out.println("2. Listar Clientes");
         System.out.println("3. Atualizar Cliente");
         System.out.println("4. Remover Cliente");
-        System.out.println("5. Buscar Cliente por ID"); // Nova opção
-        System.out.println("6. Sair"); // Alterado para 6
+        System.out.println("5. Buscar Cliente por ID");
+        System.out.println("6. Sair");
         System.out.print("Escolha uma opção: ");
     }
 
